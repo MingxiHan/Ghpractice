@@ -1,0 +1,4 @@
+#IDE generated stuff
+.idea
+.gradle
+*.iml
